@@ -1,3 +1,3 @@
 google-genai>=1.0.0
 google-adk>=0.3.0
-nemoguardrails>=0.10.0
+nemoguardrails
